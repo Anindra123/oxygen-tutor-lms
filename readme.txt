@@ -101,11 +101,13 @@ Oxygen Tutor LMS enables you to use any third party plugins without facing any c
 
 == Changelog ==
 
-= 2.0.4 - 04 November, 2026 =
+= 2.0.4 - 11 November, 2026 =
 
 * New: Added Tutor LMS v4 compatibility with the Oxygen Classic Builder.
 * Updated: Updated the Single Course and Course Archive templates with the latest designs.
-* Updated: Updated the Course List template with the latest design.
+* Update: Updated the Instructor Registration and Student Registration page templates.
+* Fix: Fixed the Instructor Registration and Student Registration pages edit issue.
+* Fix: Fixed the native Cart, Checkout, Instructor Registration, and Student Registration page templates loading issue.
 * Fix: Fixed the Learning Area and Dashboard loading issue when Oxygen Builder is enabled.
 * Fix: Fixed the Course List element editing issue in the Oxygen Visual Builder.
 * Fix: Fixed the Course List element pagination display issue.
